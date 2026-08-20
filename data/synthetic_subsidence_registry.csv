@@ -1,0 +1,13 @@
+record_id,zone_code,observation_date,satellite_subsidence_mm_year,subsidence_trend_score,groundwater_extraction_score,groundwater_level_change_m,construction_activity_score,building_density_score,soil_susceptibility_score,rainfall_30d_mm,rainfall_anomaly_score,drainage_condition_score,surface_load_score,historical_subsidence_score,monitoring_confidence_score,source_data_status,review_status
+LS001,Z-01,2026-08-18,34.8,88,82,-5.4,79,84,91,212,76,48,73,86,91,Complete,Critical Review
+LS002,Z-02,2026-08-18,21.6,72,76,-4.1,68,73,82,168,61,55,64,72,86,Complete,High Review
+LS003,Z-03,2026-08-18,8.7,41,35,-1.8,44,52,63,124,39,72,46,38,82,Complete,Moderate Review
+LS004,Z-04,2026-08-18,3.1,22,28,-0.7,31,39,34,92,25,81,29,21,78,Complete,Low Review
+LS005,Z-05,2026-08-18,27.4,81,69,-4.7,74,88,76,245,84,43,79,80,89,Complete,High Review
+LS006,Z-06,2026-08-18,14.2,57,62,-2.9,51,61,71,188,55,62,58,59,84,Complete,Moderate Review
+LS007,Z-07,2026-08-18,39.5,94,91,-6.2,86,92,95,278,92,37,88,93,94,Complete,Critical Review
+LS008,Z-08,2026-08-18,17.9,64,58,-3.3,62,69,79,151,48,58,61,65,80,Complete,High Review
+LS009,Z-09,2026-08-18,5.6,29,33,-1.1,38,47,52,109,31,76,35,28,75,Complete,Low Review
+LS010,Z-10,2026-08-18,24.8,77,72,-4.5,63,81,87,231,79,46,74,78,88,Complete,High Review
+LS011,Z-11,2026-08-18,11.3,49,46,-2.2,55,58,68,173,51,65,52,47,83,Complete,Moderate Review
+LS012,Z-12,2026-08-18,31.2,86,79,-5.1,71,86,89,264,87,41,81,88,92,Complete,Critical Review
